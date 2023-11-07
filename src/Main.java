@@ -1,7 +1,5 @@
 public class Main {
 
-public class Main {
-
 
         public static boolean parenthesesCheck(String str) {
             int count = 0;
@@ -93,4 +91,3 @@ public class Main {
 
 
 
-}
